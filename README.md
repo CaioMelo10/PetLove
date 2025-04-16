@@ -6,7 +6,7 @@ Landing page, responsiva e otimizada para um Petshop fictício chamada **PetLove
 
 ## 🔗 Deploy
 
-Acesse a versão online: [https://petlove.vercel.app](https://petlove.vercel.app)
+Acesse a versão online: https://petlove-lp.netlify.app/
 
 ---
 
