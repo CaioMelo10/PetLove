@@ -2,7 +2,6 @@
 
 Landing page, responsiva e otimizada para um Petshop fictício chamada **PetLove**, desenvolvida com **Next.js** e **TailwindCSS**. Ideal para divulgação de serviços, produtos, agendamentos e contato com clientes.
 
-![preview](./public/preview.png)
 
 ## 🔗 Deploy
 
